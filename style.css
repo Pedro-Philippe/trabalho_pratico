@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+body {
+    background-color:beige
+}
+
+h1 {color:blue;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+ul {
+    line-height: 50px;
+    font-size: 20px;
+}
+
+.partida {
+    border-radius: 20px;
+    width: 720px;
+    height: 500px;
+    
+}
+
+.japan {
+    width: 200px;
+}
+
+.korea {
+    width: 200px;
+}
+
+.spanish {
+    width: 200px;
+}
+
+.tabela, th, td {
+    text-align: center;
+    border: 2px solid;
+    font-size: 20px;
+}
+
+caption {
+    font-size: 25px;
+}
+a:hover {
+    color:red;
+}
+
+.mensagem {
+    margin-top: 10px;
+    font-weight: bold;
+}
